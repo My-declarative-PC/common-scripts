@@ -8,6 +8,7 @@ brew install  \
     fd        \
     fish      \
     fzf       \
+    gh        \
     gum       \
     helix     \
     lazygit   \
