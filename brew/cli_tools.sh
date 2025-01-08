@@ -9,6 +9,7 @@ brew install  \
     fish      \
     fzf       \
     gh        \
+    git-delta \
     gum       \
     helix     \
     lazygit   \
