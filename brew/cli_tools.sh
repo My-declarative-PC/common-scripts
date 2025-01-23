@@ -7,6 +7,7 @@ brew install  \
     fastfetch \
     fd        \
     fish      \
+    fisher    \
     fzf       \
     gh        \
     git-delta \
