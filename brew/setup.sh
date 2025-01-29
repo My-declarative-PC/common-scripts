@@ -6,4 +6,3 @@ bash common/brew/setenv.sh
 brew install gcc
 
 bash common/brew/cli_tools.sh
-bash common/brew/docker.sh
