@@ -17,3 +17,6 @@ sudo flatpak install --assumeyes flathub com.bitwarden.desktop
 sudo flatpak install --assumeyes flathub it.mijorus.gearlever
 sudo flatpak install --assumeyes flathub org.telegram.desktop
 sudo flatpak install --assumeyes flathub org.wezfurlong.wezterm
+sudo flatpak install --assumeyes flathub com.github.PintaProject.Pinta
+sudo flatpak install --assumeyes flathub org.dbgate.DbGate
+sudo flatpak install --assumeyes flathub com.obsproject.Studio
