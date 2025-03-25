@@ -3,6 +3,7 @@
 brew install   \
     btop       \
     dust       \
+    distrobox  \
     eza        \
     fastfetch  \
     fd         \
