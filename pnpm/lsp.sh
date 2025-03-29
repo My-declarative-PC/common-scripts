@@ -1,11 +1,13 @@
 #!/bin/bash
 
 pnpm i -g \
-  bash-language-server \
-  intelephense \
-  vscode-langservers-extracted \
-  typescript \
-  typescript-language-server \
-  dockerfile-language-server-nodejs \
-  @microsoft/compose-language-service \
-  helix-snippets-ls
+    bash-language-server \
+    dockerfile-language-server-nodejs \
+    @fsouza/prettierd \
+    helix-snippets-ls \
+    intelephense \
+    @microsoft/compose-language-service \
+    typescript \
+    typescript-language-server \
+    vscode-langservers-extracted \
+    yaml-language-server@next
