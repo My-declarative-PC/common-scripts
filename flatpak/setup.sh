@@ -12,3 +12,4 @@ flatpak install --assumeyes flathub it.mijorus.gearlever
 flatpak install --assumeyes flathub net.cozic.joplin_desktop
 flatpak install --assumeyes flathub org.dbgate.DbGate
 flatpak install --assumeyes flathub org.telegram.desktop
+flatpak install --assumeyes flathub space.rirusha.Cassette
