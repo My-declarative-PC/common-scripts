@@ -17,6 +17,7 @@ brew install \
     lazydocker \
     lazygit \
     node \
+    ouch \
     pnpm \
     ripgrep \
     sd \
