@@ -12,6 +12,7 @@ brew install \
     fzf \
     gh \
     git-delta \
+    gping \
     gum \
     helix \
     lazydocker \
