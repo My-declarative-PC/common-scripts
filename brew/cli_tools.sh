@@ -1,6 +1,7 @@
 #!/bin/bash
 
 brew install \
+    7zip \
     btop \
     distrobox \
     dust \
