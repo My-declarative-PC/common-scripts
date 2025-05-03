@@ -8,6 +8,7 @@ flatpak install --assumeyes flathub com.brave.Browser
 flatpak install --assumeyes flathub com.github.PintaProject.Pinta
 flatpak install --assumeyes flathub com.github.tchx84.Flatseal
 flatpak install --assumeyes flathub com.obsproject.Studio
+flatpak install --assumeyes flathub io.github.nokse22.minitext
 flatpak install --assumeyes flathub it.mijorus.gearlever
 flatpak install --assumeyes flathub net.cozic.joplin_desktop
 flatpak install --assumeyes flathub org.dbgate.DbGate
