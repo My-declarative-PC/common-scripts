@@ -3,6 +3,7 @@
 brew install \
     7zip \
     btop \
+    cyme \
     direnv \
     distrobox \
     dust \
