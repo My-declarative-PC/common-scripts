@@ -2,6 +2,7 @@
 
 brew install \
     7zip \
+    bat \
     btop \
     cyme \
     direnv \
