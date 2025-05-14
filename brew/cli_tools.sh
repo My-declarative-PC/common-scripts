@@ -2,6 +2,7 @@
 
 brew install \
     7zip \
+    atuin \
     bat \
     bat-extras \
     btop \
