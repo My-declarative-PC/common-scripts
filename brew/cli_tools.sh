@@ -3,6 +3,7 @@
 brew install \
     7zip \
     bat \
+    bat-extras \
     btop \
     cyme \
     direnv \
