@@ -7,6 +7,8 @@ brew install \
     bat-extras \
     btop \
     cyme \
+    delta \
+    difftastic \
     direnv \
     distrobox \
     dust \
