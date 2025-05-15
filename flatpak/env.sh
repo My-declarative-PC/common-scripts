@@ -8,16 +8,16 @@ flatpak --user override --filesystem=$HOME/.local/share/themes
 flatpak --user override --filesystem=$HOME/.config
 flatpak --user override --env=GTK_THEME=$GTK_THEME
 flatpak --user override --env=GTK_USE_PORTAL=1
-flatpak --user override --env=XCURSOR_THEME=catppuccin-$FLAVOR-$ACCENT-cursors
+flatpak --user override --env=XCURSOR_THEME=$XCURSOR_THEME
 flatpak --user override --talk-name=org.freedesktop.Notifications
 
 mkdir -p $HOME/.local/share
 cp -r /usr/share/icons $HOME/.local/share/icons
 cp -r /usr/share/themes $HOME/.local/share/themes
 rm -rf ~/.local/share/icons/default
-ln -s ~/.local/share/icons/catppuccin-$FLAVOR-$ACCENT-cursors ~/.local/share/icons/default
+ln -s ~/.local/share/icons/$XCURSOR_THEME ~/.local/share/icons/default
 sudo rm -rf /usr/share/icons/default
-sudo ln -s /usr/share/icons/catppuccin-$FLAVOR-$ACCENT-cursors /usr/share/icons/default
+sudo ln -s /usr/share/icons/$XCURSOR_THEME /usr/share/icons/default
 
 export THEME_DIR="$HOME/.local/share/themes/$GTK_THEME"
 
