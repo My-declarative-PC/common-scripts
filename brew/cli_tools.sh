@@ -12,6 +12,7 @@ brew install \
     direnv \
     distrobox \
     dust \
+    dysk \
     eza \
     fastfetch \
     fd \
