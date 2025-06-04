@@ -6,8 +6,8 @@ brew install \
     bat \
     bat-extras \
     btop \
-    cyme \
     chezmoi \
+    cyme \
     delta \
     difftastic \
     direnv \
@@ -34,6 +34,7 @@ brew install \
     sd \
     shfmt \
     starship \
+    taplo \
     typos-lsp \
     yazi \
     yq \
