@@ -28,6 +28,7 @@ brew install \
     helix \
     lazydocker \
     lazygit \
+    man-db \
     node \
     ouch \
     pnpm \
@@ -36,6 +37,7 @@ brew install \
     shfmt \
     starship \
     taplo \
+    tldr \
     typos-lsp \
     yazi \
     yq \
