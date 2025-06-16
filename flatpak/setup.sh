@@ -9,6 +9,7 @@ flatpak --user install --assumeyes flathub com.github.PintaProject.Pinta
 flatpak --user install --assumeyes flathub com.github.tchx84.Flatseal
 flatpak --user install --assumeyes flathub com.obsproject.Studio
 flatpak --user install --assumeyes flathub io.github.nokse22.minitext
+flatpak --user install --assumeyes flathub io.github.peazip.PeaZip
 flatpak --user install --assumeyes flathub it.mijorus.gearlever
 flatpak --user install --assumeyes flathub net.cozic.joplin_desktop
 flatpak --user install --assumeyes flathub org.dbgate.DbGate
