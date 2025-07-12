@@ -16,4 +16,5 @@ flatpak --user install --assumeyes flathub it.mijorus.gearlever
 flatpak --user install --assumeyes flathub net.cozic.joplin_desktop
 flatpak --user install --assumeyes flathub org.dbgate.DbGate
 flatpak --user install --assumeyes flathub org.telegram.desktop
+flatpak --user install --assumeyes flathub org.videolan.VLC
 flatpak --user install --assumeyes flathub space.rirusha.Cassette
