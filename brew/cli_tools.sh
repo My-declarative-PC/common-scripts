@@ -32,6 +32,7 @@ brew install \
     node \
     ouch \
     pnpm \
+    qrencode \
     ripgrep \
     sd \
     shfmt \
