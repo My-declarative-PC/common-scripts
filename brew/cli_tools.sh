@@ -22,6 +22,7 @@ brew install \
     fisher \
     fzf \
     gh \
+    gifski \
     git-delta \
     gping \
     gum \
