@@ -13,6 +13,7 @@ brew install \
     difftastic \
     direnv \
     distrobox \
+    duf \
     dust \
     dysk \
     eza \
