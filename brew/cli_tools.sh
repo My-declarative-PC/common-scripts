@@ -33,6 +33,7 @@ brew install \
     man-db \
     node \
     ouch \
+    php@8.3 \
     pnpm \
     qrencode \
     ripgrep \
