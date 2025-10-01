@@ -28,6 +28,7 @@ brew install \
     gping \
     gum \
     helix \
+    just \
     lazydocker \
     lazygit \
     man-db \
