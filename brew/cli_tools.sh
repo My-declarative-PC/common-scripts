@@ -8,6 +8,7 @@ brew install \
     bat-extras \
     btop \
     chezmoi \
+    clipboard \
     cyme \
     delta \
     difftastic \
