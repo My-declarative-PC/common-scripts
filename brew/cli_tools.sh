@@ -32,6 +32,7 @@ brew install \
     just \
     lazydocker \
     lazygit \
+    lua-language-server \
     man-db \
     node \
     ouch \
