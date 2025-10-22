@@ -33,6 +33,8 @@ brew install \
     just \
     lazydocker \
     lazygit \
+    lazysql \
+    lazyssh \
     lua-language-server \
     man-db \
     node \
