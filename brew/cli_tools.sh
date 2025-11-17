@@ -14,7 +14,6 @@ brew install \
     delta \
     difftastic \
     direnv \
-    distrobox \
     duf \
     dust \
     dysk \
