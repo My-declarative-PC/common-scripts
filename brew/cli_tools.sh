@@ -11,8 +11,6 @@ brew install \
     chezmoi \
     clipboard \
     cyme \
-    delta \
-    difftastic \
     direnv \
     duf \
     dust \
@@ -23,15 +21,12 @@ brew install \
     fish \
     fisher \
     fzf \
-    gh \
     gifski \
-    git-delta \
     gping \
     gum \
     helix \
     just \
     lazydocker \
-    lazygit \
     lazysql \
     lazyssh \
     lua-language-server \
@@ -52,3 +47,11 @@ brew install \
     yq \
     zellij \
     zoxide
+
+brew install \
+    delta \
+    difftastic \
+    gh \
+    git-delta \
+    lazygit \
+    serie
