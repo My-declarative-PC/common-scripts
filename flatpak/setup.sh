@@ -18,6 +18,7 @@ flatpak --user install --assumeyes flathub com.brave.Browser
 flatpak --user install --assumeyes flathub org.telegram.desktop
 # Multymedia
 flatpak --user install --assumeyes flathub com.obsproject.Studio
+flatpak --user install --assumeyes flathub org.nickvision.cavalier
 flatpak --user install --assumeyes flathub org.pulseaudio.pavucontrol
 flatpak --user install --assumeyes flathub org.videolan.VLC
 flatpak --user install --assumeyes flathub space.rirusha.Cassette
