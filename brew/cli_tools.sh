@@ -10,12 +10,6 @@ brew install \
     btop \
     chezmoi \
     clipboard \
-    cyme \
-    direnv \
-    duf \
-    dust \
-    dysk \
-    eza \
     fastfetch \
     fd \
     fish \
@@ -24,30 +18,18 @@ brew install \
     gifski \
     gping \
     gum \
-    helix \
-    just \
-    lazydocker \
     lazysql \
     lazyssh \
-    lua-language-server \
     man-db \
-    node \
-    ouch \
-    php@8.3 \
-    pnpm \
     qrencode \
     ripgrep \
     sd \
-    shfmt \
     starship \
-    taplo \
     tldr \
-    typos-lsp \
-    yazi \
     yq \
-    zellij \
-    zoxide
+    zellij
 
+# git staff
 brew install \
     delta \
     difftastic \
@@ -55,3 +37,32 @@ brew install \
     git-delta \
     lazygit \
     serie
+
+# dev staff
+brew install \
+    direnv \
+    helix \
+    just \
+    lazydocker \
+    lua-language-server \
+    node \
+    php@8.3 \
+    pnpm \
+    shfmt \
+    taplo \
+    typos-lsp
+
+brew link --overwrite --force php@8.3
+brew pin php@8.3
+
+# disk utils
+brew install \
+    7zip \
+    cyme \
+    duf \
+    dust \
+    dysk \
+    eza \
+    ouch \
+    yazi \
+    zoxide
