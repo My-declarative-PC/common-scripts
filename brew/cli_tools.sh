@@ -12,7 +12,6 @@ brew install \
     fastfetch \
     fd \
     fish \
-    fisher \
     fzf \
     gifski \
     gping \
@@ -46,14 +45,10 @@ brew install \
     lazysql \
     lua-language-server \
     node \
-    php@8.3 \
     pnpm \
     shfmt \
     taplo \
     typos-lsp
-
-brew link --overwrite --force php@8.3
-brew pin php@8.3
 
 # disk utils
 brew install \
