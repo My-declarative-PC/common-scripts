@@ -2,7 +2,6 @@
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 brew install \
-    7zip \
     age \
     atuin \
     bat \
@@ -18,7 +17,6 @@ brew install \
     gifski \
     gping \
     gum \
-    lazysql \
     lazyssh \
     man-db \
     qrencode \
@@ -34,6 +32,7 @@ brew install \
     delta \
     difftastic \
     gh \
+    git \
     git-delta \
     lazygit \
     serie
@@ -44,6 +43,7 @@ brew install \
     helix \
     just \
     lazydocker \
+    lazysql \
     lua-language-server \
     node \
     php@8.3 \
