@@ -19,7 +19,9 @@ brew install \
     lazyssh \
     man-db \
     qrencode \
+    rclone \
     ripgrep \
+    rsync \
     sd \
     starship \
     tldr \
