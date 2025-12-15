@@ -27,4 +27,5 @@ flatpak --user install --assumeyes flathub be.alexandervanhee.gradia
 flatpak --user install --assumeyes flathub com.github.finefindus.eyedropper
 flatpak --user install --assumeyes flathub com.github.PintaProject.Pinta
 flatpak --user install --assumeyes flathub com.infinipaint.infinipaint
+flatpak --user install --assumeyes flathub com.jgraph.drawio.desktop
 flatpak --user install --assumeyes flathub org.inkscape.Inkscape
