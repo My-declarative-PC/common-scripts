@@ -7,10 +7,12 @@ brew install \
     bat \
     bat-extras \
     btop \
+    chafa \
     chezmoi \
     clipboard \
     fastfetch \
     fd \
+    ffprobe \
     fish \
     fzf \
     gifski \
@@ -23,6 +25,7 @@ brew install \
     ripgrep \
     rsync \
     sd \
+    sk \
     starship \
     tldr \
     yq \
