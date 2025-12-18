@@ -20,6 +20,7 @@ brew install \
     gum \
     lazyssh \
     man-db \
+    pipx \
     qrencode \
     rclone \
     ripgrep \
@@ -28,6 +29,7 @@ brew install \
     sk \
     starship \
     tldr \
+    uv \
     yq \
     zellij
 
