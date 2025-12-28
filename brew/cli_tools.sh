@@ -12,7 +12,7 @@ brew install \
     clipboard \
     fastfetch \
     fd \
-    ffprobe \
+    fprobe \
     fish \
     fzf \
     gifski \
@@ -28,7 +28,7 @@ brew install \
     sd \
     sk \
     starship \
-    tldr \
+    tlrc \
     uv \
     yq \
     zellij
