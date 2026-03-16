@@ -16,6 +16,7 @@ brew install \
     fprobe \
     fzf \
     gifski \
+    glow \
     gping \
     gum \
     lazyssh \
