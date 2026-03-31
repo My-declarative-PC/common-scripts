@@ -32,6 +32,7 @@ brew install \
     tlrc \
     trippy \
     uv \
+    whosthere \
     yq \
     zellij
 
