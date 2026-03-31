@@ -30,6 +30,7 @@ brew install \
     starship \
     tlrc \
     trippy \
+    whosthere \
     yq \
     zellij
 
