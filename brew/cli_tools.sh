@@ -49,6 +49,7 @@ brew install \
 # dev staff
 brew install \
     direnv \
+    hadolint \
     helix \
     just \
     lazydocker \
