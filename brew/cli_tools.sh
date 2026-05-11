@@ -52,6 +52,7 @@ brew install \
     just \
     lazydocker \
     lazysql \
+    lima \
     lua-language-server \
     node \
     pnpm \
