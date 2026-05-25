@@ -5,12 +5,16 @@ flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/fl
 flatpak --user install --assumeyes flathub com.bitwarden.desktop
 flatpak --user install --assumeyes flathub com.github.tchx84.Flatseal
 flatpak --user install --assumeyes flathub com.github.tenderowl.frog
-flatpak --user install --assumeyes flathub io.anytype.anytype
 flatpak --user install --assumeyes flathub io.github.nokse22.minitext
+flatpak --user install --assumeyes flathub io.github.shonebinu.Glyph
 flatpak --user install --assumeyes flathub it.mijorus.gearlever
 flatpak --user install --assumeyes flathub net.cozic.joplin_desktop
 flatpak --user install --assumeyes flathub org.dbgate.DbGate
 flatpak --user install --assumeyes flathub org.onlyoffice.desktopeditors
+flatpak --user install --assumeyes flathub se.sjoerd.Graphs
+# Remote Desktop
+flatpak --user install --assumeyes flathub com.anydesk.Anydesk
+flatpak --user install --assumeyes flathub com.rustdesk.RustDesk
 flatpak --user install --assumeyes flathub org.remmina.Remmina
 # Internet
 flatpak --user install --assumeyes flathub app.zen_browser.zen
@@ -28,4 +32,5 @@ flatpak --user install --assumeyes flathub com.github.finefindus.eyedropper
 flatpak --user install --assumeyes flathub com.github.PintaProject.Pinta
 flatpak --user install --assumeyes flathub com.infinipaint.infinipaint
 flatpak --user install --assumeyes flathub com.jgraph.drawio.desktop
+flatpak --user install --assumeyes flathub io.github.nokse22.Exhibit
 flatpak --user install --assumeyes flathub org.inkscape.Inkscape
